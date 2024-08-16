@@ -70,13 +70,21 @@ Question Answering: Generates answers based on context using OpenAI’s GPT-3.5-
 Database Operations: Manages query storage and retrieval with SQLite. 🗄️🔑
 
 🛠️ Requirements
+
 Python 3.7+
+
 Streamlit
+
 PyPDF2
+
 SpeechRecognition
+
 OpenAI
+
 SentenceTransformers
+
 SQLite3
+
 NumPy
 
 

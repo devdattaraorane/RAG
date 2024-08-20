@@ -22,7 +22,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/
 cd your-repository
 Install Dependencies:
 Make sure you have Python 3.7+ installed, then run:
